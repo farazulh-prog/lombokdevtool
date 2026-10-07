@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: devlombokdemo
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/student
+    username: root
+    password: root
+
+server:
+  port: 9000
+
